@@ -7,3 +7,4 @@ SportSense.AI is a multi-faceted model that inputs the player, opponent team, an
 
 The insights gained could directly influence your strategies in fantasy NBA leagues. Our approach is designed to be robust, innovative, and deeply influenced by our love for the game.
 
+![sportsenseai](https://github.com/BerkeAltiparmak/SportSense.AI/assets/96665962/807f6be3-220a-4da4-9179-cf468047a7cb)
