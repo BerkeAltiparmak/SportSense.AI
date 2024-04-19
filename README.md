@@ -10,6 +10,6 @@ The insights gained could directly influence your strategies in fantasy NBA leag
 SportSense.AI consists of three models:
 - SportSense Basic
 - SportSense Enriched
-- SportSense IDKWTFHDH
+- SportSense BaLLR-1
 
 ![sportsenseai](https://github.com/BerkeAltiparmak/SportSense.AI/assets/96665962/807f6be3-220a-4da4-9179-cf468047a7cb)
